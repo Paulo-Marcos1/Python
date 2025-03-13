@@ -6,4 +6,5 @@ class Aluno:
         self.notas = notas
 
     def calcular_media(self:object) ->float:
+        
         return sum(self.notas) / len(self.notas)
