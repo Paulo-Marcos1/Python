@@ -6,7 +6,7 @@ def escrever_aluno():
    dados = f"Aluno: {nome} \n1ª Prova:{n1} \n2ª Prova:{n2} \nMedia:{media}\n\n"
 
    caminho = open("Alunos.txt", "a", encoding="utf-8")
-   caminho.writelines(dados)
+   caminho.write(dados)
    caminho.close()
 
 escrever_aluno()
