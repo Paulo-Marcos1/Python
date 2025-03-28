@@ -1,0 +1,9 @@
+Aluno: Paulo 
+1ª Prova:8.0 
+2ª Prova:4.0 
+Media:6.0
+
+Aluno: Marcos 
+1ª Prova:9.0 
+2ª Prova:8.0 
+Media:8.5
